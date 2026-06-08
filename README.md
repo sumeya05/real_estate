@@ -21,12 +21,7 @@ cd apps/real_estate
 pre-commit install
 ```
 
-Pre-commit is configured to use the following tools for checking and formatting your code:
 
-- ruff
-- eslint
-- prettier
-- pyupgrade
 
 ### License
 
